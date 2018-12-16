@@ -1,0 +1,21 @@
+>>> 'hello'.encode(encoding='utf-8')
+b'hello'
+>>> 'привет'.encode(encoding='utf-8')
+b'\xd0\xbf\xd1\x80\xd0\xb8\xd0\xb2\xd0\xb5\xd1\x82'
+>>> 'привет'.encode(encoding='cp1251')
+b'\xef\xf0\xe8\xe2\xe5\xf2'
+>>> encode = 'hello'.encode(encoding='utf-8')
+>>> encode.decode(encoding='utf-8')
+'hello'
+>>> encode = 'привет'.encode(encoding='utf-8')
+>>> encode.decode(encoding='utf-8')
+'привет'
+>>> encode = 'привет'.encode(encoding='cp1251')
+>>> encode.decode(encoding='utf-8')
+Traceback (most recent call last):
+  File "<pyshell#57>", line 1, in <module>
+    encode.decode(encoding='utf-8')
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xef in position 0: invalid continuation byte
+>>> encode.decode(encoding='cp1251')
+'привет'
+>>> 
