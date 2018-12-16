@@ -4,7 +4,8 @@ def function():
     lst.append(45)
     lst.sort()
 
-lst = [4, 6, 12, 3]
-function()
-print(lst)
+if __name__ == '__main__':
+    lst = [4, 6, 12, 3]
+    function()
+    print(lst)
 
