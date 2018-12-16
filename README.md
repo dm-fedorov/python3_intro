@@ -11,3 +11,5 @@
 9. [Обработка исключений и работа с файлами](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_9)
 10. [Классы. tkinter](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_10)
 11. [Открытые данные](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_11)
+
+Курс читается в [СПбГЭУ](https://unecon.ru/).
