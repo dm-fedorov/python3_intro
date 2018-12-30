@@ -1,0 +1,15 @@
+>>> import random
+>>> random.random()
+0.9636741463817425
+>>> random.seed(10)
+>>> random.random()
+0.5714025946899135
+>>> random.seed(10)
+>>> random.random()
+0.5714025946899135
+>>> random.uniform(0, 10)
+4.288890546751146
+>>> random.randint(0, 10)
+9
+>>> random.choice("string")
+'i'
