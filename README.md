@@ -13,4 +13,5 @@
 11. [Классы. tkinter](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_11)
 12. [Открытые данные](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_12)
 
-Курс читается в [СПбГЭУ](https://unecon.ru/), [ВШМ СПбГУ](https://gsom.spbu.ru/)
+Курс читается в [СПбГЭУ](https://unecon.ru/), [ВШМ СПбГУ](https://gsom.spbu.ru/), [Школе интернет-технологий Epic Skills](https://epixx.ru/course_programs/python)
+
