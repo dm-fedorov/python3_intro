@@ -2,7 +2,7 @@
 # Некоторая собака:
 class Dog:    
     # метод для произношения имени:
-    def bark(self): # Преобразуется в полную форму Dog.bark(myDog)        
+    def bark(self): # Преобразуется в полную форму Dog.bark(my_dog)        
         print("Собака говорит: {0}".format(self.name))
 
 # Конкретная собака:        
