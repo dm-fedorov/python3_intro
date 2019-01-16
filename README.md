@@ -11,7 +11,8 @@
 9. [Алгоритмы](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_9)
 10. [Обработка исключений и работа с файлами](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_10)
 11. [Классы. tkinter](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_11)
-12. [Открытые данные](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_12)
+12. [Открытые данные, работа с API](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_12)
+13. [Анализ данных](https://github.com/dm-fedorov/python3_intro/tree/master/lesson_13)
 
 Курс читается в [СПбГЭУ](https://unecon.ru/), [ВШМ СПбГУ](https://gsom.spbu.ru/), [Школе интернет-технологий Epic Skills](https://epixx.ru/course_programs/python)
 
