@@ -3,9 +3,9 @@ value = input("Введите pH: ")
 if len(value) > 0:
     pH = float(value)
     if pH == 7.0:
-        print(pH, "Вода")
+        print("Вода")
     elif 7.36 < pH < 7.44:
-        print(pH, "Кровь")
+        print("Кровь")
     else:
         print("Что это?!")
 else:
