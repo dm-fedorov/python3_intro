@@ -9,7 +9,7 @@ def func(v1, v2, v3):
     4.667
 
     '''
-    return round((v1+v2+v3)/3, 3)
+    return round((v1 + v2 + v3) / 3, 3)
 
 import doctest
 # автоматически проверяет тесты в документации

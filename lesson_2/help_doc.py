@@ -5,4 +5,4 @@ def my_function():
     """
     pass
 
-help(my_function)  # print(my_function.__doc__)
+help(my_function)  
