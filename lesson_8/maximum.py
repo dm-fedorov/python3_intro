@@ -1,6 +1,6 @@
 # maximum.py
 
-def maximum(*numbers):
+def maximum(#):
     """
     >>> maximum(3, 2, 8)
     8
