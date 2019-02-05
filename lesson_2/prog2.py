@@ -1,6 +1,6 @@
 # prog2.py
 value = input("Введите pH: ")
-if len(value) > 0:
+if value:
     pH = float(value)
     if pH == 7.0:
         print("Вода")
