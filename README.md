@@ -16,5 +16,5 @@
 
 В качестве учебника рекомендую: [Федоров, Д. Ю. ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ ВЫСОКОГО УРОВНЯ PYTHON 2-е изд., пер. и доп. Учебное пособие для прикладного бакалавриата / Д. Ю. Федоров. – М. : Издательство Юрайт, 2019.](https://biblio-online.ru/book/programmirovanie-na-yazyke-vysokogo-urovnya-python-437489?ref_from=94433)
 
-Курс читается в [СПбГЭУ](https://unecon.ru/), [ВШМ СПбГУ](https://gsom.spbu.ru/), [Школе интернет-технологий Epic Skills](https://epixx.ru/course_programs/python)
+Курс читается для студентов [СПбГЭУ](https://unecon.ru/), [ВШМ СПбГУ](https://gsom.spbu.ru/), [Школы интернет-технологий Epic Skills](https://epixx.ru/course_programs/python)
 
