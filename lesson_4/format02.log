@@ -1,0 +1,4 @@
+>>> "{0}, {1}, {2}".format(10, 12.3, "str")
+>>> "{model}, {color}".format(color='red', model='lada')
+>>> "{color}, {0}".format(2015, color="red")
+'red, 2015'
