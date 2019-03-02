@@ -1,0 +1,11 @@
+Beagle
+Border Terrier
+Boxer
+West Highland White Terrier
+Golden Retriever
+Cavalier King Charles Spaniel
+Staffordshire Bull Terrier
+German Shepherd
+English Springer Spaniel
+Jack Russel Terrier
+Pug
