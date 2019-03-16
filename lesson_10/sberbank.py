@@ -11,7 +11,7 @@ def money_reader(what, where, when):
     import csv
     money = list()
     try:
-        with open('opendata.csv') as csvfile:
+        with open('opendata.csv', encoding='cp1251') as csvfile:
             money_reader = csv.reader(csvfile) # delimiter по умолчанию ','
             for row in money_reader:
                 if row[0] == what:
