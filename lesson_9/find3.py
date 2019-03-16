@@ -11,7 +11,7 @@ def find_two_smallest(L):
             min1 = i
         elif L[i] < L[min2]:
             min2 = i
-    return (min1, min2)
+    return min1, min2
 
 if __name__ == "__main__":
     print(find_two_smallest([809, 834, 477, 478, 307, 122, 96, 102, 324,  476]))    
