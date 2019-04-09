@@ -34,3 +34,15 @@ emp.get_job()
 cust = Customer('Петр')
 cust.say()
 cust.get_email()
+
+print(type(emp))
+emp_class = emp.__class__
+print(emp_class)  
+print(emp_class.__name__) # имя класса
+print(emp_class.__bases__) # анализируме структуру наследования
+# см. isinstance()
+#print(emp_class == Employee)
+
+
+
+
