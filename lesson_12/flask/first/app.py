@@ -1,11 +1,7 @@
 import datetime
-
 from flask import Flask, render_template
 
 app = Flask(__name__)
-
-#def histogram():
-
 
 @app.route("/")
 def index():
@@ -17,7 +13,6 @@ def index():
     else:
         headline = "Завтрак!!!!"
         return render_template("index.html", headline_tpl=headline)
-
 @app.route("/bye")
 def bye():
     headline = "Goodbye"
