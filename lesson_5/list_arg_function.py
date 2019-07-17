@@ -13,4 +13,4 @@ def add_element_to_list_none(a, b=None):
     return b
 
 print(add_element_to_list_none(5))
-print(add_element_to_list_none(7))
+print(add_element_to_list(7))
