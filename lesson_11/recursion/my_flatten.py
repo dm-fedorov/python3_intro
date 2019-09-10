@@ -1,5 +1,3 @@
-my_arr = [1, 2, [3, [4, 5]], 6]
-
 def my_flatten(arr, res=[]):
     """
     >>> print(my_flatten([1, 2, [3, [4, 5]], 6]))
