@@ -1,0 +1,4 @@
+City;temper
+Spb;12
+Msk;3
+Omsk;7
