@@ -1,4 +1,4 @@
-City;temper
-Spb;12
-Msk;3
-Omsk;7
+City;temper;humidity
+Spb;12;90
+Msk;3;70
+Omsk;7;60
